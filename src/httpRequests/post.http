@@ -1,0 +1,10 @@
+### POST request to example server
+POST http://127.0.0.1:9000/cities
+Content-Type: application/json
+
+{
+  "name": "test",
+  "population": 101
+}
+
+###
